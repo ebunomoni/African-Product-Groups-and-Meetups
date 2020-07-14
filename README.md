@@ -15,7 +15,7 @@ You can also view this in [AirTable](https://airtable.com/shr6ENsQizeDQwdvz/tblv
 | West Africa     | Ivory Coast  | Abidjan      | Project Management Institute                | https://www.eventbrite.com/o/pmi-cote-divoire-chapter-11927163778      |
 | East Africa     | Kenya        | Nairobi      | Product Tank, Nairobi                       | https://www.meetup.com/ProductTank-Nairobi/                            |
 | East Africa     | Kenya        | Nairobi      | Agile Kenya                                 | https://www.meetup.com/Nairobi-Agile-and-Scrum-Meetup/                 |
-| East Africa     | Kenya        | Nairobi      | Women in Agile, Kenya (currently enrolling) | https://www.meetup.com/Women-In-Agile-Kenya                            |
+| East Africa     | Kenya        | Nairobi      | Women in Agile, Kenya  | https://www.meetup.com/Women-In-Agile-Kenya                            |
 | North Africa    | Morocco      | Casablanca   | Agile Morocco                               | https://www.agilealliance.org/communities/agile-morocco/               |
 | North Africa    | Morocco      | Casablanca   | Casablanca Agile Community                  | https://www.meetup.com/Casablanca-Agile-Community/                     |
 | North Africa    | Morocco      | Casablanca   | Agile Games Maroc                           | https://www.meetup.com/Agile-Games-Maroc/                              |
