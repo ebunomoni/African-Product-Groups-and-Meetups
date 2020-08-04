@@ -1,4 +1,4 @@
-# African Product Management Groups and Meetups
+# African Product Management, Product Design and Software Project Management Groups and Meetups
 
 You can also view this in [AirTable](https://airtable.com/shrwqmAvHS8bYjCsv/tblTLvGvSNEETfseB)
 
