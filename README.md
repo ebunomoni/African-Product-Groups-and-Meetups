@@ -4,6 +4,7 @@ You can also view this in [AirTable](https://airtable.com/shrwqmAvHS8bYjCsv/tblT
 
 |Region         |Country       |City         |Name                                               |Website / URL                                                               |Category                   |
 |---------------|--------------|-------------|---------------------------------------------------|----------------------------------------------------------------------------|---------------------------|
+|Africa   |Remote       |Remote      |Fearless, Africa (currently enrolling)                                      |https://itsfearless.com/community/   
 |North Africa   |Algeria       |Algiers      |Agile Algeria                                      |https://www.agilealliance.org/communities/agile-algeria/                    |Software Project Management|
 |North Africa   |Algeria       |Algiers      |Dribbble Algeria Meetup                            |https://dribbble.com/places/algeria/meetups                                 |Product Design             |
 |North Africa   |Algeria       |Algiers      |Algeria Solidworks Users Group                     |https://www.meetup.com/Algeria-Solidworks-Users-Group/                      |Product Design             |
